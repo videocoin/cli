@@ -1,6 +1,6 @@
 ## Intro
 
-VideoCoin command line application to demonstrate VideoCoin Network usage.
+VideoCoin command line application to access the VideoCoin Network.
 
 ## Build
 
